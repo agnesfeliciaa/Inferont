@@ -1,6 +1,8 @@
-<<<<<<< HEAD
 # Inferont
 Saya mengembangkan sistem pemantauan kualitas udara berbasis web untuk memantau tingkat polusi PM2.5 di beberapa kecamatan di Pekanbaru, Riau. Sistem ini mengintegrasikan pengumpulan dan analisis data secara real-time yang dirancang khusus untuk memenuhi kebutuhan BMKG (Badan Meteorologi, Klimatologi, dan Geofisika). Dalam prosesnya, saya melakukan analisis data dengan mempertimbangkan dimensi temporal (waktu) dan spasial (lokasi) untuk memberikan wawasan mengenai pola polusi dari waktu ke waktu dan di berbagai wilayah. Selain itu, saya juga bertanggung jawab atas pengumpulan, pembersihan, dan validasi data guna memastikan akurasi dan integritas data lingkungan, serta menggunakan analisis matriks korelasi untuk mengidentifikasi hubungan antara variabel lingkungan dan tingkat PM2.5. Untuk membantu BMKG dan pemangku kepentingan memahami pola data, saya membuat visualisasi interaktif yang menyajikan tren kualitas udara secara jelas dan informatif.
+
+
+<<<<<<< HEAD
 =======
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
